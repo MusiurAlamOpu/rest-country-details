@@ -1,0 +1,10 @@
+#countryShortInfo img{
+    width: 200px;
+    height: 120px;
+}
+#countryShortInfo{
+    border-right: 1px solid rgb(66, 66, 66);
+    color: rgb(0, 0, 0);
+    width: 100%;
+    text-align: center;
+}
